@@ -10,7 +10,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://github.com/jamesecy604/angular-github-actions.git",
+    "build:prod": "ng build --configuration production --base-href https://jamesecy604.github.io/angular-github-actions.git/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
